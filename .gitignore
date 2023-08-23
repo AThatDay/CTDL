@@ -1,0 +1,7 @@
+Debug/*
+application/out
+*.user
+*.vs
+*.vcxproj.filters
+*.vcxproj.user
+*.vcxproj
