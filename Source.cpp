@@ -27,13 +27,13 @@ int main()
 	//A = A + B;
 	//cout << A << endl; // In ra số phức A.
 
-	double x = 4.2;
+	/*double x = 4.2;
 	double y = 3.6;
 	Swap(x, y);
 
 	cout << x << endl;
 
-	Shape bag1("thatle");
+	Shape bag1("thatle");*/
 
 	system("pause");
 	return 0;
